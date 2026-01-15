@@ -1,0 +1,5 @@
+$ sleep 5 &
+ex$ec  sleep failed
+ps
+exec ps failed
+$ 
